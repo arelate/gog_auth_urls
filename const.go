@@ -4,7 +4,7 @@
 
 package gogauthurls
 
-import "github.com/boggydigital/gogog/pkg/gogurls"
+import "github.com/arelate/gogurls"
 
 // hosts
 const (

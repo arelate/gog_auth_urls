@@ -5,7 +5,7 @@
 package gogauthurls
 
 import (
-	"github.com/boggydigital/gogog/pkg/gogurls"
+	"github.com/arelate/gogurls"
 	"net/url"
 )
 

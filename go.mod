@@ -1,5 +1,5 @@
-module github.com/arelate/gogauthurls
+module github.com/arelate/gog_auth_urls
 
 go 1.15
 
-require github.com/arelate/gogurls v0.1.0-alpha
+require github.com/arelate/gog_urls v0.1.4-alpha

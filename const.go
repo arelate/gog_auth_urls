@@ -2,14 +2,14 @@
 // Use of this source code is governed by an MIT-style license that can be
 // found in the LICENSE file.
 
-package gogauthurls
+package gog_auth_urls
 
-import "github.com/arelate/gogurls"
+import "github.com/arelate/gog_urls"
 
 // hosts
 const (
-	loginHost     = "login." + gogurls.GogHost
-	authHost      = "auth." + gogurls.GogHost
+	loginHost     = "login." + gog_urls.GogHost
+	authHost      = "auth." + gog_urls.GogHost
 	reCaptchaHost = "www.recaptcha.net"
 )
 

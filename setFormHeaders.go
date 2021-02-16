@@ -1,4 +1,4 @@
-package gogauthurls
+package gog_auth_urls
 
 import (
 	"net/http"

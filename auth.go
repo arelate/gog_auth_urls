@@ -2,16 +2,16 @@
 // Use of this source code is governed by an MIT-style license that can be
 // found in the LICENSE file.
 
-package gogauthurls
+package gog_auth_urls
 
 import (
-	"github.com/arelate/gogurls"
+	"github.com/arelate/gog_urls"
 	"net/url"
 )
 
 func auth(host string) *url.URL {
 	authURL := &url.URL{
-		Scheme: gogurls.HttpsScheme,
+		Scheme: gog_urls.HttpsScheme,
 		Host:   host,
 		Path:   authPath,
 	}

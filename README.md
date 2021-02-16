@@ -1,16 +1,16 @@
-# gogauthurls
+# gog_auth_urls
 
 ## GOG.com authentication URLs
 
-gogauthurls provides URL funcs for gogauth:
+gog_auth_urls provides URL funcs for gog_auth:
 
-- AuthHost - used by gogauth.Login
-- LoginHost - used by gogauth.Login
-- AddAuthHostDefaultHeaders - used by gogauth.Login
-- AddLoginHostDefaultHeaders - used by gogauth.Login
-- LoginData - used by gogauth.Login
-- LoginCheck - used by gogauth.Login
-- OnLoginSuccess - used by gogauth.Login
-- ReCaptcha - used by gogauth.Login
-- LoginTwoStep - used by gogauth.Login
-- UserData - used by gogauth.LoggedIn
+- AuthHost - used by gog_auth.Login
+- LoginHost - used by gog_auth.Login
+- AddAuthHostDefaultHeaders - used by gog_auth.Login
+- AddLoginHostDefaultHeaders - used by gog_auth.Login
+- LoginData - used by gog_auth.Login
+- LoginCheck - used by gog_auth.Login
+- OnLoginSuccess - used by gog_auth.Login
+- ReCaptcha - used by gog_auth.Login
+- LoginTwoStep - used by gog_auth.Login
+- UserData - used by gog_auth.LoggedIn
